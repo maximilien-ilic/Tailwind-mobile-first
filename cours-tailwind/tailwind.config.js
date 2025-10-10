@@ -11,6 +11,7 @@ export default {
         "gris":"#F0F0F3",
         "degrader":"#FF00FB",
         "transparent":"#F9F9FB00",
+        "border":"#E0E1E6",
       },  
     },
   },
