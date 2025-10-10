@@ -9,6 +9,8 @@ export default {
         "background":"#F9F9FB",
         white:"#FFFFFF",
         "gris":"#F0F0F3",
+        "degrader":"#FF00FB",
+        "transparent":"#F9F9FB00",
       },  
     },
   },
