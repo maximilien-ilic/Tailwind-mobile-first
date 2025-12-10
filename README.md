@@ -23,5 +23,7 @@ Design mobile-first avec adaptations pour tablettes et desktop.
 Composants Vue modulaires et réutilisables.
 
 Navigation et layout responsive.
+
 📸 Aperçu
 https://tailwind-mobile-first.vercel.app/
+
